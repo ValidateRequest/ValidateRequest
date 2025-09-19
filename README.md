@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karthy Andreya
-- 👀 I’m interested in web development/designing
+- 👀 I’m a web developer and, Data Analyst
 - 🌱 I’m currently an IT Student at HIT
 - 📫 How to reach me
  kathyandrea60@gmail.com 
