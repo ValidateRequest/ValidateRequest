@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Karthy Andreya
 - 👀 I’m a web developer and, Data Analyst
-- 🌱 I’m currently an IT Student at HIT
+- 🌱 HIT Alumni
 - 📫 How to reach me
- kathyandrea60@gmail.com 
+ kathyandrea60@gmail.com || www.linkedin.com/in/kathy-andrea-2506b8379
 
 <!---
 ValidateRequest/ValidateRequest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
