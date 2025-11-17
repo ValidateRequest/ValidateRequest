@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karthy Andreya
-- 👀 I’m a web developer and, Data Analyst
+- 👀 I’m aSoftware Developer and, Data Analyst
 - 🌱 HIT Alumni
 - 📫 How to reach me
  kathyandrea60@gmail.com || www.linkedin.com/in/kathy-andrea-2506b8379
